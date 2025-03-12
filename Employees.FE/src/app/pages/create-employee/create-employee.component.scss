@@ -1,0 +1,42 @@
+.employee-form-container {
+  max-width: 500px;
+  margin: auto;
+  margin-top: 2vh;
+  padding: 20px;
+}
+
+.form-group {
+  display: flex;
+  gap: 10px;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+mat-card-title {
+  margin-bottom: 1rem;
+}
+
+.phones-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 2rem;
+  .add-phone {
+    display: flex;
+    align-self: center;
+  }
+}
+
+.phone-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}

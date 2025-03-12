@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.WebAPI/Employees.WebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/Employees.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/Employees.Application.csproj",
+        "projectName": "Employees.Application",
+        "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/Employees.Application.csproj",
+        "packagesPath": "/Users/luizmoraesaf/.nuget/packages/",
+        "outputPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/luizmoraesaf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://icr.myget.org/F/nuget/auth/104ab794-a265-4430-9036-5bbd8a8b6361/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/Employees.Domain.csproj": {
+                "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/Employees.Domain.csproj"
+              },
+              "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/Employees.Infrastructure.csproj": {
+                "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/Employees.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/Employees.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/Employees.Domain.csproj",
+        "projectName": "Employees.Domain",
+        "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/Employees.Domain.csproj",
+        "packagesPath": "/Users/luizmoraesaf/.nuget/packages/",
+        "outputPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/luizmoraesaf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://icr.myget.org/F/nuget/auth/104ab794-a265-4430-9036-5bbd8a8b6361/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/Employees.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/Employees.Infrastructure.csproj",
+        "projectName": "Employees.Infrastructure",
+        "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/Employees.Infrastructure.csproj",
+        "packagesPath": "/Users/luizmoraesaf/.nuget/packages/",
+        "outputPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/luizmoraesaf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://icr.myget.org/F/nuget/auth/104ab794-a265-4430-9036-5bbd8a8b6361/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/Employees.Domain.csproj": {
+                "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/Employees.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.WebAPI/Employees.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.WebAPI/Employees.WebAPI.csproj",
+        "projectName": "Employees.WebAPI",
+        "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.WebAPI/Employees.WebAPI.csproj",
+        "packagesPath": "/Users/luizmoraesaf/.nuget/packages/",
+        "outputPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/luizmoraesaf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://icr.myget.org/F/nuget/auth/104ab794-a265-4430-9036-5bbd8a8b6361/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/Employees.Application.csproj": {
+                "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/Employees.Application.csproj"
+              },
+              "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/Employees.Infrastructure.csproj": {
+                "projectPath": "/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/Employees.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0-preview1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.2.1-dev-02340, )"
+            },
+            "Serilog.Extensions": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

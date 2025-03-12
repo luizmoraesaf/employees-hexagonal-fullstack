@@ -1,0 +1,15 @@
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/bin/Debug/net8.0/Employees.Infrastructure.deps.json
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/bin/Debug/net8.0/Employees.Infrastructure.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/bin/Debug/net8.0/Employees.Infrastructure.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/bin/Debug/net8.0/Employees.Domain.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/bin/Debug/net8.0/Employees.Domain.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/Employees.Infrastructure.csproj.AssemblyReference.cache
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/Employees.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/Employees.Infrastructure.AssemblyInfoInputs.cache
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/Employees.Infrastructure.AssemblyInfo.cs
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/Employees.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/Employee.BE2B1B24.Up2Date
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/Employees.Infrastructure.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/refint/Employees.Infrastructure.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/Employees.Infrastructure.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Infrastructure/obj/Debug/net8.0/ref/Employees.Infrastructure.dll

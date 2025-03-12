@@ -1,0 +1,17 @@
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/bin/Debug/net8.0/Employees.Application.deps.json
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/bin/Debug/net8.0/Employees.Application.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/bin/Debug/net8.0/Employees.Application.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/bin/Debug/net8.0/Employees.Domain.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/bin/Debug/net8.0/Employees.Infrastructure.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/bin/Debug/net8.0/Employees.Domain.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/bin/Debug/net8.0/Employees.Infrastructure.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/Employees.Application.csproj.AssemblyReference.cache
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/Employees.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/Employees.Application.AssemblyInfoInputs.cache
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/Employees.Application.AssemblyInfo.cs
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/Employees.Application.csproj.CoreCompileInputs.cache
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/Employee.1547ACAE.Up2Date
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/Employees.Application.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/refint/Employees.Application.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/Employees.Application.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Application/obj/Debug/net8.0/ref/Employees.Application.dll

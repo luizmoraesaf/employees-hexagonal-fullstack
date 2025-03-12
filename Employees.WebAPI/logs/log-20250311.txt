@@ -1,0 +1,49 @@
+2025-03-11 14:56:27.101 -03:00 [INF] User profile is available. Using '/Users/luizmoraesaf/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-03-11 14:56:27.155 -03:00 [INF] Creating key {ecfb02db-a313-48e7-a716-3f88f55065cc} with creation date 2025-03-11 17:56:27Z, activation date 2025-03-11 17:56:27Z, and expiration date 2025-06-09 17:56:27Z.
+2025-03-11 14:56:27.158 -03:00 [WRN] No XML encryptor configured. Key {ecfb02db-a313-48e7-a716-3f88f55065cc} may be persisted to storage in unencrypted form.
+2025-03-11 14:56:27.159 -03:00 [INF] Writing data to file '/Users/luizmoraesaf/.aspnet/DataProtection-Keys/key-ecfb02db-a313-48e7-a716-3f88f55065cc.xml'.
+2025-03-11 14:56:27.186 -03:00 [INF] Now listening on: http://localhost:5169
+2025-03-11 14:56:27.188 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-11 14:56:27.188 -03:00 [INF] Hosting environment: Development
+2025-03-11 14:56:27.188 -03:00 [INF] Content root path: /Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.WebAPI
+2025-03-11 14:56:27.818 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/ - null null
+2025-03-11 14:56:27.850 -03:00 [WRN] Failed to determine the https port for redirect.
+2025-03-11 14:56:27.886 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/ - 404 0 null 84.532ms
+2025-03-11 14:56:27.889 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5169/, Response status code: 404
+2025-03-11 14:57:09.116 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/index - null null
+2025-03-11 14:57:09.125 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/index - 404 0 null 9.244ms
+2025-03-11 14:57:09.126 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5169/index, Response status code: 404
+2025-03-11 14:57:18.637 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index - null null
+2025-03-11 14:57:18.643 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index - 404 0 null 6.3645ms
+2025-03-11 14:57:18.644 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5169/swagger/index, Response status code: 404
+2025-03-11 14:57:27.366 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index - null null
+2025-03-11 14:57:27.367 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index - 404 0 null 1.0262ms
+2025-03-11 14:57:27.367 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5169/swagger/index, Response status code: 404
+2025-03-11 14:57:30.423 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/ - null null
+2025-03-11 14:57:30.424 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/ - 404 0 null 0.8578ms
+2025-03-11 14:57:30.424 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5169/, Response status code: 404
+2025-03-11 14:59:20.261 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger - null null
+2025-03-11 14:59:20.266 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger - 301 0 null 5.8062ms
+2025-03-11 14:59:20.267 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-03-11 14:59:20.329 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 61.7942ms
+2025-03-11 14:59:20.343 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui.css - null null
+2025-03-11 14:59:20.344 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.js - null null
+2025-03-11 14:59:20.345 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui-bundle.js - null null
+2025-03-11 14:59:20.347 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.css - null null
+2025-03-11 14:59:20.346 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui-standalone-preset.js - null null
+2025-03-11 14:59:20.347 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.js - 200 null application/javascript;charset=utf-8 2.9879ms
+2025-03-11 14:59:20.367 -03:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-03-11 14:59:20.368 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.css - 200 202 text/css 21.17ms
+2025-03-11 14:59:20.378 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-03-11 14:59:20.379 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 33.4894ms
+2025-03-11 14:59:20.380 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-03-11 14:59:20.380 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui.css - 200 154948 text/css 37.2565ms
+2025-03-11 14:59:20.385 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-03-11 14:59:20.386 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui-bundle.js - 200 1466324 text/javascript 40.7796ms
+2025-03-11 14:59:20.666 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/favicon-32x32.png - null null
+2025-03-11 14:59:20.668 -03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-03-11 14:59:20.668 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/favicon-32x32.png - 200 628 image/png 2.4165ms
+2025-03-11 14:59:20.708 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-03-11 14:59:20.786 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 78.507ms
+2025-03-11 15:00:28.101 -03:00 [INF] Application is shutting down...
+2025-03-11 15:41:22.262 -03:00 [ERR] An error occurred using the connection to database 'employeedb' on server 'tcp://postgres:5432'.

@@ -1,0 +1,40 @@
+<mat-toolbar color="accent">
+  <span>Employees Management</span>
+  <span class="spacer"></span>
+  <div class="actions">
+    <button mat-flat-button color="secondary" (click)="create()">Create</button>
+    <button mat-icon-button color="primary" (click)="logout()">
+      <mat-icon>logout</mat-icon>
+    </button>
+  </div>
+</mat-toolbar>
+
+<div class="employee-list-container">
+  <mat-list role="list">
+    <mat-list-item *ngFor="let employee of employees" role="listitem">
+      <div class="employee-info">
+        <div class="employee-details">
+          <h3>{{ employee.firstName }}</h3>
+          <p>{{ employee.email }}</p>
+          <p>{{ employee.birthDate | date : "dd/MM/yyyy" }}</p>
+        </div>
+        <div class="actions">
+          <button
+            mat-icon-button
+            color="primary"
+            (click)="editEmployee(employee.id)"
+          >
+            <mat-icon>edit</mat-icon>
+          </button>
+          <button
+            mat-icon-button
+            color="warn"
+            (click)="deleteEmployee(employee.id)"
+          >
+            <mat-icon>delete</mat-icon>
+          </button>
+        </div>
+      </div>
+    </mat-list-item>
+  </mat-list>
+</div>

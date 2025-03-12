@@ -1,0 +1,41 @@
+﻿version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_DB: employeedb
+      POSTGRES_USER: employeemanagement
+      POSTGRES_PASSWORD: secret
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  angular-app:
+    build:
+      context: ./Employees.FE
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    restart: always
+
+  webapi:
+    build:
+      context: .
+      dockerfile: Employees.WebAPI/Dockerfile
+    container_name: employee_management_api
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=employeedb;Username=employeemanagement;Password=secret
+    ports:
+      - "12270:12270"
+      - "12271:12271"
+
+volumes:
+  postgres_data:

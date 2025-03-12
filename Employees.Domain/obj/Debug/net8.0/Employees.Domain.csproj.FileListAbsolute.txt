@@ -1,0 +1,11 @@
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/bin/Debug/net8.0/Employees.Domain.deps.json
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/bin/Debug/net8.0/Employees.Domain.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/bin/Debug/net8.0/Employees.Domain.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/Debug/net8.0/Employees.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/Debug/net8.0/Employees.Domain.AssemblyInfoInputs.cache
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/Debug/net8.0/Employees.Domain.AssemblyInfo.cs
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/Debug/net8.0/Employees.Domain.csproj.CoreCompileInputs.cache
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/Debug/net8.0/Employees.Domain.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/Debug/net8.0/refint/Employees.Domain.dll
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/Debug/net8.0/Employees.Domain.pdb
+/Users/luizmoraesaf/RiderProjects/Employees.Hexagonal/Employees.Domain/obj/Debug/net8.0/ref/Employees.Domain.dll
